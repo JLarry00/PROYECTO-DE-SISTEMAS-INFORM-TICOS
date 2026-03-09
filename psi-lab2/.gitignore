@@ -1,0 +1,15 @@
+venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Node / frontend
+node_modules/
+tutorial-vue/node_modules/
